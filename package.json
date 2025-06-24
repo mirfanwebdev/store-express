@@ -1,0 +1,20 @@
+{
+  "name": "store-api",
+  "version": "0.0.1",
+  "description": "store management rest api build with express and postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "m.irfan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
